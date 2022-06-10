@@ -7,7 +7,7 @@ const {
     updateUser,
     deleteUser,
     addFriend,
-    removeFriend
+    removeFriend,
 } = require('../../controllers/user-controller');
 
 router
