@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/CougarChan/No-SQL.git"
@@ -18,6 +19,7 @@
     "url": "https://github.com/CougarChan/No-SQL/issues"
   },
   "homepage": "https://github.com/CougarChan/No-SQL#readme",
+  
   "dependencies": {
     "dateformat": "^5.0.3",
     "express": "^4.18.1",
